@@ -17,4 +17,5 @@ int main() {
     rand_num = rand();
     printf("%d\n", rand_num);
   }
+  printf("My name is Jeremiah!");
 }
