@@ -20,6 +20,4 @@ int main() {
   printf("%d\n", strcmp("Hello", "Helly"));
   printf("%d\n", strcmp(str,"Hello"));
   printf("%d\n", strcmp(name,str));
-
-  printf("Adding a linen of code");
 }
